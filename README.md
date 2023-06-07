@@ -43,9 +43,14 @@ This script contains functions related to image matching and homography.
 ## Outputs
 
 - Visualized raw matching result between the template and the target image.
+![image](https://github.com/anush97/Homography-Matching/assets/32952140/ace04405-4f7d-4d64-8ef7-7fb9186b2887)
 - Visualized matching result after RANSAC.
+![image](https://github.com/anush97/Homography-Matching/assets/32952140/c060b518-d2b7-4cd2-86ee-b5ababdf87dc)
 - Visualized bounding box in the target image.
+![image](https://github.com/anush97/Homography-Matching/assets/32952140/1cb42cff-2705-4bbb-a553-f43f6768e963)
 - Final composite image with the template replaced by a new image.
+![image](https://github.com/anush97/Homography-Matching/assets/32952140/2658cdfc-321f-4507-b0d1-3eecc7b13311)
+
 
 ## Notes
 
